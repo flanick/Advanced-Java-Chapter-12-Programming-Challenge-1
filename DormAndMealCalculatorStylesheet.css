@@ -1,0 +1,14 @@
+.label {
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 10pt;
+    -fx-text-fill: blue;
+    -fx-font-weight: bold;
+}
+.root {
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 10pt;
+}
+.button {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}
